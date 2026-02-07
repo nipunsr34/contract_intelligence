@@ -1,0 +1,15 @@
+sqlalchemy>=2.0
+azure-ai-documentintelligence>=1.0.0b4
+openai>=1.0
+chromadb>=0.5
+llama-index>=0.11
+llama-index-vector-stores-chroma>=0.3
+python-dotenv>=1.0
+click>=8.1
+pydantic>=2.0
+sentence-transformers>=3.0
+# PageIndex dependencies (for fallbacks A/B/C)
+pymupdf>=1.24
+PyPDF2>=3.0
+tiktoken>=0.5
+pyyaml>=6.0
