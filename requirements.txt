@@ -13,3 +13,6 @@ pymupdf>=1.24
 PyPDF2>=3.0
 tiktoken>=0.5
 pyyaml>=6.0
+# Streamlit UI
+streamlit>=1.39
+plotly>=5.18
